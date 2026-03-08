@@ -1,6 +1,4 @@
-Harika bir fikir! GitHub profilinde bu projenin ne olduğunu ve senin bu süreçte neler öğrendiğini anlatan şık bir README.md dosyası, projeni çok daha profesyonel gösterir.
 
-Aşağıdaki taslağı kopyalayıp ana dizindeki README.md dosyanın içine yapıştırabilirsin. İçeriği senin seviyene göre "temelden gelişmişe" doğru kurguladım:
 🐍 Discovery Piscine: Python Journey
 
 Bu depo, Python programlama diline giriş yaptığım ve temel seviyeden başlayarak daha karmaşık veri yapılarına kadar ilerlediğim Discovery Piscine modüllerini içermektedir. Toplam 9 modülde, algoritma mantığından sözlük yönetimine kadar birçok konuyu uygulamalı olarak çözdüm.
